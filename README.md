@@ -28,18 +28,9 @@ This project was built as part of my Day 24 Python milestone to strengthen file 
 
 🧩 Project Structure
 
-mail-merge-automation/
- ├── main.py
- ├── Input/
- │   ├── Names/
- │   │   └── invited_names.txt
- │   └── Letters/
- │       └── starting_letter.txt
- ├── Output/
- │   └── ReadyToSend/
- ├── sample_output/
- │   └── letter_for_Sam.txt
- └── README.md
+<img width="368" height="336" alt="image" src="https://github.com/user-attachments/assets/8ee9bd6d-2201-430e-8d91-a95c278405b7" />
+
+
 
 
 ⸻
